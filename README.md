@@ -11,3 +11,5 @@ An iOS UIKit app that displays a welcome message, a gradient banner inspired by 
 🎉 Confetti animation using CAEmitterLayer
 
 🎨 Background color changes randomly with smooth animation on button tap
+
+https://imgur.com/a/Lqci4ja.gif
