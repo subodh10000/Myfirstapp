@@ -6,7 +6,7 @@ An iOS app built with UIKit that shows a gradient banner, a button, and a confet
 
 ## 🎥 App Demo
 
-![App Demo](https://i.imgur.com/nBbSqX8.gif)
+![App Demo](https://i.imgur.com/nBbSqX8.gif](https://i.imgur.com/2uqY9lp.gif)](https://i.imgur.com/2uqY9lp.gif)](https://i.imgur.com/2uqY9lp.gif))
 
 ---
 
