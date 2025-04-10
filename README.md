@@ -1,15 +1,44 @@
-📱 MyFirstApp – Hello CodePath 🎉
-An iOS UIKit app that displays a welcome message, a gradient banner inspired by CodePath.org, and a fun confetti animation triggered by a button press.
+# MyFirstApp – Hello CodePath 🎉
 
-✨ Features
-💬 Displays a "Hello, CodePath" welcome message
+An iOS app built with UIKit that shows a gradient banner, a button, and a confetti celebration when the button is tapped.
 
-🌈 Gradient banner at the top with a custom label
+---
 
-🎯 "Click Me" button changes label text to "Yay 🎉"
+## 🎥 App Demo
 
-🎉 Confetti animation using CAEmitterLayer
+![App Demo](https://i.imgur.com/nBbSqX8.gif)
 
-🎨 Background color changes randomly with smooth animation on button tap
+---
 
-https://imgur.com/a/Lqci4ja.gif
+## ✨ Features
+
+- “Hello, CodePath” message
+- Gradient banner inspired by CodePath
+- Button labeled “Click Me”
+- Confetti animation using `CAEmitterLayer`
+- Random background color with smooth animation on tap
+
+---
+
+## 🛠 Built With
+
+- Xcode + Swift (UIKit)
+- Auto Layout (Programmatic)
+- Git + GitHub
+
+---
+
+## 💡 What I Learned
+
+- How to use UIKit without Storyboards
+- Auto Layout in code
+- Swift animations and particle effects
+- First time pushing code from Xcode to GitHub
+- Recording + embedding a demo GIF
+
+---
+
+## 🔗 GitHub Repo
+
+[View the Code](https://github.com/subodh10000/Myfirstapp)
+
