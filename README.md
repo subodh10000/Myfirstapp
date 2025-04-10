@@ -1,44 +1,48 @@
-# MyFirstApp – Hello CodePath 🎉
+# 📱 MyFirstApp – Hello CodePath 🎉
 
-An iOS app built with UIKit that shows a gradient banner, a button, and a confetti celebration when the button is tapped.
+An iOS UIKit app built as part of the CodePath pre-work submission. It features a colorful animated UI with a confetti celebration when the user taps a button.
 
 ---
 
 ## 🎥 App Demo
 
-![App Demo](https://i.imgur.com/nBbSqX8.gif](https://i.imgur.com/2uqY9lp.gif)](https://i.imgur.com/2uqY9lp.gif)](https://i.imgur.com/2uqY9lp.gif))
+![App Demo](https://i.imgur.com/2uqY9lp.gif)
 
 ---
 
 ## ✨ Features
 
-- “Hello, CodePath” message
-- Gradient banner inspired by CodePath
-- Button labeled “Click Me”
-- Confetti animation using `CAEmitterLayer`
-- Random background color with smooth animation on tap
+- 🌈 Gradient banner inspired by CodePath’s brand
+- 💬 Dynamic label that says “Hello, CodePath” and changes to “Yay 🎉”
+- 🎯 Interactive “Click Me” button
+- 🎉 Confetti animation using `CAEmitterLayer`
+- 🎨 Background color changes smoothly with animation every time the button is tapped
 
 ---
 
 ## 🛠 Built With
 
-- Xcode + Swift (UIKit)
-- Auto Layout (Programmatic)
-- Git + GitHub
+- [Xcode](https://developer.apple.com/xcode/)
+- [Swift](https://developer.apple.com/swift/)
+- UIKit
+- Programmatic Auto Layout (no Storyboards)
+- Git & GitHub for version control
 
 ---
 
-## 💡 What I Learned
+## 📚 What I Learned
 
-- How to use UIKit without Storyboards
-- Auto Layout in code
-- Swift animations and particle effects
-- First time pushing code from Xcode to GitHub
-- Recording + embedding a demo GIF
+- Building iOS apps using UIKit without Storyboards
+- Creating and managing views programmatically
+- Using `CAEmitterLayer` for fun particle animations
+- Animating background color changes
+- Pushing code to GitHub from Xcode for the first time
+- Recording and embedding GIF demos in a `README.md`
 
 ---
 
-## 🔗 GitHub Repo
+## 🚀 Getting Started
 
-[View the Code](https://github.com/subodh10000/Myfirstapp)
-
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/subodh10000/Myfirstapp.git
